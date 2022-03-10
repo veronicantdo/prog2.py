@@ -1,4 +1,4 @@
-ac=√a²+bc²
-ac=√4²+3²
-ac=√25
-ac=5
+a=1
+b=1
+a²+b²=c²
+print(c)
